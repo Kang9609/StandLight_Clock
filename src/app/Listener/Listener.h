@@ -15,7 +15,7 @@ private :
 
 public:
     Listener(Button *button, Controller *control, ClockCheck *clock);
-    ~Listener();
+    virtual ~Listener();
     void checkEvent();
 };
 

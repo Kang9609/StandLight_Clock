@@ -18,7 +18,7 @@ private:
 
 public:
     Service(View *viewer);
-    ~Service();
+    virtual ~Service();
     void updateState(std::string strState);
 };
 
