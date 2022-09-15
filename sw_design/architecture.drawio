@@ -1,10 +1,10 @@
 <mxfile host="65bd71144e">
     <diagram id="rwZVFnb9-4XuviEcM_qo" name="페이지-1">
-        <mxGraphModel dx="448" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+        <mxGraphModel dx="1643" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Button&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                <mxCell id="2" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Button&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="110" y="400" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="" style="edgeStyle=none;html=1;fontSize=18;rounded=0;" parent="1" source="4" target="2" edge="1">
@@ -36,7 +36,7 @@
                 <mxCell id="13" value="StandLight&lt;br&gt;Service" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
                     <mxGeometry x="340" y="30" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px&quot;&gt;LCD&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                <mxCell id="16" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px&quot;&gt;LCD&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="620" y="420" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="17" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=18;" parent="1" edge="1">
@@ -51,7 +51,7 @@
                 <mxCell id="22" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="520" y="390" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="ClockService" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                <mxCell id="23" value="ClockService" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="200" y="120" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="23" edge="1">
@@ -72,7 +72,7 @@
                         <mxPoint x="680" y="150" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="28" value="Clock View" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                <mxCell id="28" value="Clock View" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="620" y="260" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="28" edge="1">
@@ -87,7 +87,7 @@
                         <mxPoint x="730" y="270" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="33" value="ClockCheck" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                <mxCell id="33" value="ClockCheck" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="250" y="400" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="34" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="33" edge="1">
@@ -118,6 +118,27 @@
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="400" y="220" as="sourcePoint"/>
                         <mxPoint x="450" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px&quot;&gt;Power&lt;br&gt;Button&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="-20" y="400" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=18;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="34.5" y="360" as="sourcePoint"/>
+                        <mxPoint x="34.5" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=18;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="40" y="360" as="sourcePoint"/>
+                        <mxPoint x="170" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=18;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="520" y="370" as="sourcePoint"/>
+                        <mxPoint x="680" y="370" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>

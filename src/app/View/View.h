@@ -31,12 +31,7 @@ public:
     void lightOn_4();
     void lightOn_5();
     void lightOff();
-    void lightDisplayoff();
-    void lightDisplay1();
-    void lightDisplay2();
-    void lightDisplay3();
-    void lightDisplay4();
-    void lightDisplay5();
+
 };
 
 #endif /* __VIEW_H__ */
